@@ -1,0 +1,72 @@
+[
+  {
+    "domanda": "In quale anno Sandra Mondaini e Raimondo Vianello si sposano?",
+    "opzioni": ["1958", "1962", "1968", "1974"],
+    "giusta": 1,
+    "spiegazione": "Si sposano il 28 maggio 1962, quattro anni dopo essersi conosciuti in teatro.",
+    "link": "/la-coppia/"
+  },
+  {
+    "domanda": "Come si chiama il piccolo clown interpretato da Sandra?",
+    "opzioni": ["Scaramacai", "Sbirulino", "Arabella", "Ferruccio"],
+    "giusta": 1,
+    "spiegazione": "Sbirulino debutta nel 1978 in Io e la Befana. Scaramacai è il pagliaccio a cui si ispira.",
+    "link": "/programmi/sbirulino/"
+  },
+  {
+    "domanda": "Con chi Raimondo conduceva Un, due, tre negli anni Cinquanta?",
+    "opzioni": ["Walter Chiari", "Ugo Tognazzi", "Mike Bongiorno", "Carlo Dapporto"],
+    "giusta": 1,
+    "spiegazione": "Tognazzi e Vianello sono i protagonisti del varietà che molte fonti considerano il primo programma satirico della televisione italiana.",
+    "link": "/programmi/un-due-tre/"
+  },
+  {
+    "domanda": "Che cosa legge Raimondo a letto nel finale di Casa Vianello?",
+    "opzioni": ["Il Corriere della Sera", "Un romanzo giallo", "La Gazzetta dello Sport", "Il Radiocorriere"],
+    "giusta": 2,
+    "spiegazione": "Raimondo sfoglia la Gazzetta dello Sport mentre Sandra scalcia sotto le coperte e si lamenta della noia.",
+    "link": "/racconti/che-barba-che-noia/"
+  },
+  {
+    "domanda": "Quante stagioni conta Casa Vianello?",
+    "opzioni": ["8", "12", "16", "20"],
+    "giusta": 2,
+    "spiegazione": "Sedici stagioni e 338 episodi, dal 1988 al 2007.",
+    "link": "/programmi/casa-vianello/"
+  },
+  {
+    "domanda": "In quale anno Raimondo conduce il Festival di Sanremo?",
+    "opzioni": ["1988", "1993", "1998", "2003"],
+    "giusta": 2,
+    "spiegazione": "Nel 1998, con Eva Herzigová e Veronica Pivetti. Vince Annalisa Minetti.",
+    "link": "/programmi/sanremo-1998/"
+  },
+  {
+    "domanda": "Quale programma sul calcio conduceva Raimondo su Italia 1?",
+    "opzioni": ["Pressing", "Controcampo", "La domenica sportiva", "Novantesimo minuto"],
+    "giusta": 0,
+    "spiegazione": "Raimondo guida Pressing dalla stagione 1991-1992 al 1999, portando l'ironia nel racconto del calcio.",
+    "link": "/programmi/pressing/"
+  },
+  {
+    "domanda": "Con quale varietà la coppia debutta su Canale 5 nel 1982?",
+    "opzioni": ["Stasera niente di nuovo", "Attenti a noi due", "Zig Zag", "Sandra e Raimondo Show"],
+    "giusta": 1,
+    "spiegazione": "Attenti a noi due segna il passaggio alla televisione commerciale e anticipa gli sketch coniugali di Casa Vianello.",
+    "link": "/programmi/attenti-a-noi-due/"
+  },
+  {
+    "domanda": "Qual è il primo programma a colori della coppia?",
+    "opzioni": ["Tante scuse", "Il Giocondo", "Noi... no!", "Sai che ti dico?"],
+    "giusta": 2,
+    "spiegazione": "Noi... no! va in onda tra il 1977 e il 1978, con la sigla Cerco un uomo cantata da Sandra.",
+    "link": "/programmi/noi-no/"
+  },
+  {
+    "domanda": "In quale città nasce Sandra Mondaini?",
+    "opzioni": ["Roma", "Torino", "Milano", "Venezia"],
+    "giusta": 2,
+    "spiegazione": "Nasce a Milano il 1 settembre 1931. Raimondo invece è nato a Roma.",
+    "link": "/sandra-mondaini/"
+  }
+]

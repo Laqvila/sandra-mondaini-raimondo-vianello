@@ -1,0 +1,26 @@
+{
+  "name": "sandra-e-raimondo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sandra e Raimondo. Archivio non ufficiale degli appassionati su Sandra Mondaini e Raimondo Vianello.",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.js",
+    "serve": "node tools/serve.js",
+    "dev": "node tools/build.js && node tools/serve.js",
+    "og": "node tools/og-image.js",
+    "immagini": "node tools/immagini.js",
+    "foto": "node tools/foto.js"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/source-serif-4": "^5.3.1",
+    "gray-matter": "^4.0.3",
+    "marked": "^18.1.3"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "sharp": "^0.35.5"
+  }
+}

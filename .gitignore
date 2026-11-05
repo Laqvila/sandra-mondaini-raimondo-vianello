@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.claude/
+
+# file di lavoro che restano sul PC
+anteprima-home.jpg
+foto-proposte.png
+struttura-sito.md
+testi-legali.md

@@ -1,0 +1,75 @@
+[
+  {
+    "tipo": "libro",
+    "titolo": "Casa nostra",
+    "autore": "Raimondo Vianello e Sandra Mondaini",
+    "editore": "Bietti",
+    "anno": "1974",
+    "nota": "Il racconto ironico della loro vita domestica, scritto a quattro mani quattordici anni prima di Casa Vianello. Si trova solo usato."
+  },
+  {
+    "tipo": "libro",
+    "titolo": "Un, due, tre",
+    "autore": "Ugo Tognazzi e Raimondo Vianello, a cura di Roberto Buffagni",
+    "editore": "Mondadori",
+    "anno": "2001",
+    "isbn": "8804493127",
+    "nota": "Raccolta di sketch e battute della coppia Tognazzi e Vianello. Fuori catalogo, si trova usato."
+  },
+  {
+    "tipo": "libro",
+    "titolo": "Sandra Mondaini e Raimondo Vianello",
+    "autore": "Roberto Frini e Federico Bravetti",
+    "editore": "Gremese",
+    "anno": "2010",
+    "isbn": "9788884406293",
+    "nota": "Volume illustrato della collana Superstar con carriera, fotografie, un'intervista e alcune scenette, con prefazione di Antonio Ricci.",
+    "url": "https://www.lafeltrinelli.it/sandra-mondaini-raimondo-vianello-ediz-libro-roberto-frini-federico-bravetti/e/9788884406293",
+    "etichetta": "Scheda su laFeltrinelli"
+  },
+  {
+    "tipo": "libro",
+    "titolo": "Raimondo Vianello. Il gran signore della risata",
+    "autore": "David De Filippi",
+    "editore": "Aliberti",
+    "anno": "2010",
+    "isbn": "9788874246151",
+    "nota": "Biografia uscita l'anno della scomparsa di Raimondo, nella collana Storie e personaggi."
+  },
+  {
+    "tipo": "libro",
+    "titolo": "Senza suonare il campanello. La comicità elegante di Sandra e Raimondo",
+    "autore": "Chiara Zaccariotto",
+    "editore": "Augh!",
+    "anno": "2023",
+    "isbn": "9788893433747",
+    "nota": "Saggio dedicato allo stile comico della coppia, uscito nella collana Due Lune."
+  },
+  {
+    "tipo": "libro",
+    "titolo": "Mike, Corrado e Vianello. Il canto del cigno dei tre tenori",
+    "autore": "Alessandro Ticozzi",
+    "editore": "Sensoinverso",
+    "anno": "2018",
+    "isbn": "9788867933914",
+    "nota": "Racconta lo spettacolo del 1998 che riunì Mike Bongiorno, Corrado e Raimondo Vianello."
+  },
+  {
+    "tipo": "dvd",
+    "titolo": "Casa Vianello, la serie completa",
+    "editore": "Corriere della Sera e La Gazzetta dello Sport",
+    "anno": "2020",
+    "nota": "Per la prima volta tutte le stagioni in DVD, in uscite settimanali in edicola dal 15 aprile 2020. Oggi si trova solo usato."
+  },
+  {
+    "tipo": "dvd",
+    "titolo": "Il meglio di Casa Vianello",
+    "nota": "Collana di quattro DVD con episodi scelti per temi, dai battibecchi al rapporto di coppia."
+  },
+  {
+    "tipo": "dvd",
+    "titolo": "Sandra e Raimondo. Il grande varietà di una coppia intramontabile",
+    "editore": "Allegato al settimanale Oggi",
+    "nota": "Antologia di 148 minuti con sketch e sigle dei loro varietà."
+  }
+]
